@@ -17,9 +17,6 @@ export default function Diploma() {
               to={module.id}
             >
               <p className="module-name">{module.name}</p>
-              <p>
-                {module.speaker.name} | {module.speaker.org}
-              </p>
             </NavLink>
           </li>
         ))}

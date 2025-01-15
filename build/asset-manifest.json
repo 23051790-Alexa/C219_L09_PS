@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e67aa29.css",
+    "main.js": "/static/js/main.0631fa51.js",
+    "static/media/soi-hero-banner-2024.jpg": "/static/media/soi-hero-banner-2024.7455aee66183ba225061.7455aee66183ba225061.jpg",
+    "static/media/rp-logo. copy.png": "/static/media/rp-logo.a76b4d6a8e6239425057 copy.a76b4d6a8e6239425057.png",
+    "index.html": "/index.html",
+    "main.2e67aa29.css.map": "/static/css/main.2e67aa29.css.map",
+    "main.0631fa51.js.map": "/static/js/main.0631fa51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e67aa29.css",
+    "static/js/main.0631fa51.js"
+  ]
+}
